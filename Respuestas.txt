@@ -1,0 +1,12 @@
+Punto 2 f) 
+- ¿Puede ver el archivo tp2_1_2.c? ¿Por qué?
+
+No puedo ver el archivo tp2_1_2.c porque ese archivo esta en la rama de "Opcion_2" y yo estoy trabajando en "main"
+
+- vuelva a ejecutar el comando gitk --all ¿Qué diferencias nota?
+
+Puedo observar que la "Opcion_2" se desplazo hacia la derecha
+
+- Luego utilice el comando gitk –all para ver los cambios, ¿Qué nota?
+
+Puedo ver que se unió la "Opcion_2" con "main" en un solo archivo
